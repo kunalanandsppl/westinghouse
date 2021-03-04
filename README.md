@@ -1,2 +1,2 @@
 # westinghouse
-Westinghouse Project
+Westinghouse Project Sample
